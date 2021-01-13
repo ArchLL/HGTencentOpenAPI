@@ -3,6 +3,10 @@
 
 ##### 最近更新记录：
 
+V3.5.2 更新
+1.修复编译报错 `Could not build module 'TencentOpenApi'`
+参考：https://juejin.cn/post/6916432417506983949/  
+
 V3.5.1 更新
 
 1.支持moudles,兼容OC和swift  

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HGTencentOpenAPI'
-  s.version          = '3.5.1'
+  s.version          = '3.5.2'
   s.license          = 'MIT'
   s.summary          = '个人使用的TencentOpenAPI的pod库'
   s.description      = %{
